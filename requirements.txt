@@ -7,7 +7,7 @@ six
 ruamel.std.zipfile
 pandas
 tqdm
-sklearn
+scikit-learn
 utm
 pyyaml
 Cython
